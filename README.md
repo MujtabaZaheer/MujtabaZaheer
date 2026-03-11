@@ -34,5 +34,5 @@
 
 ---
 <p align="center">
-  📫 How to reach me: <b>mujtaba@example.com</b> (Update this in your README!)
+  📫 How to reach me: <b>mujtaba.zaheer.dev@gmail.com</b>
 </p>
