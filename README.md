@@ -15,7 +15,7 @@
 
 ### 📈 Advanced Metrics
 <p align="center">
-  <img src="https://metrics.lecoq.io/MujtabaZaheer?base=header,activity,community,repositories&base.repositories=private&lines=1&theme=tokyonight" />
+  <img src="https://metrics.lecoq.io/MujtabaZaheer?base=header,activity,community,repositories&repositories=100&repositories.batch=100&base.repositories=private&lines=1&theme=tokyonight" />
 </p>
 
 ### 🚀 About Me
