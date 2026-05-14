@@ -1,9 +1,21 @@
 # 👋 Hi, I'm Mujtaba Zaheer!
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MujtabaZaheer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MujtabaZaheer&theme=tokyonight" />
+</p>
 
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MujtabaZaheer&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MujtabaZaheer&theme=tokyonight&no-frame=true&margin-w=15" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MujtabaZaheer&theme=tokyonight" />
+</p>
+
+### 📈 Advanced Metrics
+<p align="center">
+  <img src="https://metrics.lecoq.io/MujtabaZaheer?base=header,activity,community,repositories&base.repositories=private&lines=1&theme=tokyonight" />
 </p>
 
 ### 🚀 About Me
@@ -75,9 +87,6 @@
 - 🏫 **[Classroom-Connect](https://github.com/MujtabaZaheer/Classroom-Connect)** - A collaborative platform for students and educators.
 - 🧠 **[AI-Object-Detection](https://github.com/MujtabaZaheer/AI-Project-Object-Detection)** - Real-time object detection and recognition system using Python.
 
-<p align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=MujtabaZaheer&theme=tokyonight" />
-  
 ---
 
 ### 🤝 Connect with me:
