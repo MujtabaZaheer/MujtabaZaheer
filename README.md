@@ -53,12 +53,6 @@
 - 🏆 **[SportsPortal](https://github.com/MujtabaZaheer/SportsPortal)** - A high-performance sports management and information system built with .NET.
 - 🏫 **[Classroom-Connect](https://github.com/MujtabaZaheer/Classroom-Connect)** - A collaborative platform for students and educators.
 - 🧠 **[AI-Object-Detection](https://github.com/MujtabaZaheer/AI-Project-Object-Detection)** - Real-time object detection and recognition system using Python.
-
-### 📈 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MujtabaZaheer&layout=compact&theme=radical" />
-</p>
-
 ---
 
 ### 🤝 Connect with me:
