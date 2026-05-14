@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mujtaba Zaheer!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MujtabaZaheer&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MujtabaZaheer&theme=radical" />
 </p>
 
 ### 🚀 About Me
