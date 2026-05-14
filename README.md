@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Mujtaba Zaheer!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MujtabaZaheer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Mujtaba's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MujtabaZaheer&theme=tokyonight" alt="Mujtaba's Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MujtabaZaheer&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MujtabaZaheer&theme=radical" />
 </p>
 
 ### 🚀 About Me
@@ -24,15 +24,15 @@
 </p>
 
 ### 📁 Featured Projects
+- 🤖 **[AI_Assistant](https://github.com/MujtabaZaheer/AI_Assistant)** - An intelligent AI assistant developed for task automation and intelligent interactions.
 - 📱 **[CUSTPortal](https://github.com/MujtabaZaheer/CUSTPortal)** - A comprehensive student portal app built with Android (Kotlin).
-- 🏆 **[SportsPortal](https://github.com/MujtabaZaheer/SportsPortal)** - A sports management and information system built with .NET.
-- 🧠 **[AI-Object-Detection](https://github.com/MujtabaZaheer/AI-PROJECT-OBJECT-DETECTION)** - Real-time object detection and recognition system using Python.
-- 🎓 **[History-Quiz-App](https://github.com/MujtabaZaheer/HIstory-Quiz-App)** - An interactive trivia app featuring custom quizzes via Gemini API.
-- 🤖 **[AI_ASSISTANT](https://github.com/MujtabaZaheer/AI_ASSISTANT)** - An intelligent AI assistant developed for task automation.
+- 🏆 **[SportsPortal](https://github.com/MujtabaZaheer/SportsPortal)** - A high-performance sports management and information system built with .NET.
+- 🏫 **[Classroom-Connect](https://github.com/MujtabaZaheer/Classroom-Connect)** - A collaborative platform for students and educators.
+- 🧠 **[AI-Object-Detection](https://github.com/MujtabaZaheer/AI-Project-Object-Detection)** - Real-time object detection and recognition system using Python.
 
 ### 📈 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MujtabaZaheer&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MujtabaZaheer&layout=compact&theme=radical" />
 </p>
 
 ---
